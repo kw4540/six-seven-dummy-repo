@@ -1,3 +1,3 @@
 # six-seven-dummy-repo
 
-Change made my Computer B.
+Change made my Computer A.
