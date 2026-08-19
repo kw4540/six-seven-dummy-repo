@@ -1,3 +1,3 @@
 # six-seven-dummy-repo
 
-Change made my Computer B.
+Changes made by Computer A and Computer B.
